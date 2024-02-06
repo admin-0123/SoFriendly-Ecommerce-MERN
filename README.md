@@ -1,4 +1,4 @@
-# Welcome to the Sabil Project
+# Welcome to the SoFriendly Project
 #### This is a full-functional (Work in progress now)  ecommerce web application that is developed by using MERN (MongoDB, Express.js, React.js, and Node.js).
 
 ## Features:
@@ -113,7 +113,7 @@ The client and server both are up and running and we should see the following sc
   ```
   DB_HOST=localhost
   DB_PORT=27017
-  DB_NAME=sabil
+  DB_NAME=SoFriendly
   JWT_SECRET=secret
   JWT_EXPIRES_IN=3600
   PORT=8008
@@ -151,6 +151,3 @@ npm run db:migrate
 ```
 
 You should be able to see the username and password in the `/server/setup/users.json` file.
-
-## 🔗 Important Links ❗
-- 🔴 Project Live : [Sabil](https://sabil.vercel.app)
